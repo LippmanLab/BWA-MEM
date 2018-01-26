@@ -1,0 +1,2 @@
+FULLPATH_Read1_Sample1;FULLPATH_Read1_Sample2;...	FULLPATH_Read2_Sample1;FULLPATH_Read2_Sample2;...	Sample1_flowcell;Sample2_flowcell	library1	BWA_index_path
+FULLPATH_Read1_Sample1;FULLPATH_Read1_Sample2;...	FULLPATH_Read2_Sample1;FULLPATH_Read2_Sample2;...	Sample1_flowcell;Sample2_flowcell	library2	BWA_index_path
